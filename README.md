@@ -1,3 +1,3 @@
 # quiz_app
 
-A new Flutter project.
+A simple quiz app for learing Flutter basics. Training project.
